@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DemoMiddleware",
+    "\\DemoMiddleware\\Middleware",
+    "\\DemoMiddleware\\Middleware\\Middleware"
+  ],
+  "SelectedNode": "\\DemoMiddleware\\Middleware\\Middleware\\SimpleMiddleware.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,96 @@
+﻿# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.vscode-test/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# DOTNET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# StyleCop
+StyleCopReport.xml
+
+# LiteDB database files
+*.db
+*.db-journal
+
+# DotNetWatcher
+**/Properties/launchSettings.json
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# NCrunch
+*.ncrunchsolution
+*.ncrunchproject
+
+# DotSettings
+*.DotSettings.user
+
+# Rider
+.idea/
+
+# Xamarin
+*.mp4
+*.ppkg
+*.propdesc
+*.target
+*.targets
+*.props
+*.resjson
+
+# Visual Studio for Mac
+.vscode/
+.vscode-test/
+
+# Backup & report files from converting an old project file
+Backup/
+ConversionReport.htm
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
