@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\nine-plus\\Demo_MVC_SHOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{740CE842-0C8F-4B71-8979-CEB7E4027E74}|Demo_MVC_SHOP\\Demo_MVC_SHOP.csproj|c:\\users\\admin\\source\\nine-plus\\demo_mvc_shop\\demo_mvc_shop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{740CE842-0C8F-4B71-8979-CEB7E4027E74}|Demo_MVC_SHOP\\Demo_MVC_SHOP.csproj|solutionrelative:demo_mvc_shop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\source\\nine-plus\\Demo_MVC_SHOP\\Demo_MVC_SHOP\\Migrations\\20240712015905_AddProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demo_MVC_SHOP\\Migrations\\20240712015905_AddProduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740CE842-0C8F-4B71-8979-CEB7E4027E74}|Demo_MVC_SHOP\\Demo_MVC_SHOP.csproj|c:\\users\\admin\\source\\nine-plus\\demo_mvc_shop\\demo_mvc_shop\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740CE842-0C8F-4B71-8979-CEB7E4027E74}|Demo_MVC_SHOP\\Demo_MVC_SHOP.csproj|solutionrelative:demo_mvc_shop\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740CE842-0C8F-4B71-8979-CEB7E4027E74}|Demo_MVC_SHOP\\Demo_MVC_SHOP.csproj|c:\\users\\admin\\source\\nine-plus\\demo_mvc_shop\\demo_mvc_shop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740CE842-0C8F-4B71-8979-CEB7E4027E74}|Demo_MVC_SHOP\\Demo_MVC_SHOP.csproj|solutionrelative:demo_mvc_shop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{740CE842-0C8F-4B71-8979-CEB7E4027E74}|Demo_MVC_SHOP\\Demo_MVC_SHOP.csproj|c:\\users\\admin\\source\\nine-plus\\demo_mvc_shop\\demo_mvc_shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{740CE842-0C8F-4B71-8979-CEB7E4027E74}|Demo_MVC_SHOP\\Demo_MVC_SHOP.csproj|solutionrelative:demo_mvc_shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240712015905_AddProduct.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\nine-plus\\Demo_MVC_SHOP\\Demo_MVC_SHOP\\Migrations\\20240712015905_AddProduct.cs",
+              "RelativeDocumentMoniker": "Demo_MVC_SHOP\\Migrations\\20240712015905_AddProduct.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\nine-plus\\Demo_MVC_SHOP\\Demo_MVC_SHOP\\Migrations\\20240712015905_AddProduct.cs",
+              "RelativeToolTip": "Demo_MVC_SHOP\\Migrations\\20240712015905_AddProduct.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T01:59:06.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\nine-plus\\Demo_MVC_SHOP\\Demo_MVC_SHOP\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Demo_MVC_SHOP\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\nine-plus\\Demo_MVC_SHOP\\Demo_MVC_SHOP\\Models\\Product.cs",
+              "RelativeToolTip": "Demo_MVC_SHOP\\Models\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T01:52:21.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\nine-plus\\Demo_MVC_SHOP\\Demo_MVC_SHOP\\Program.cs",
+              "RelativeDocumentMoniker": "Demo_MVC_SHOP\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\nine-plus\\Demo_MVC_SHOP\\Demo_MVC_SHOP\\Program.cs",
+              "RelativeToolTip": "Demo_MVC_SHOP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T01:48:50.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\nine-plus\\Demo_MVC_SHOP\\Demo_MVC_SHOP\\Services\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Demo_MVC_SHOP\\Services\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\nine-plus\\Demo_MVC_SHOP\\Demo_MVC_SHOP\\Services\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Demo_MVC_SHOP\\Services\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T01:47:08.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\nine-plus\\Demo_MVC_SHOP\\Demo_MVC_SHOP\\appsettings.json",
+              "RelativeDocumentMoniker": "Demo_MVC_SHOP\\appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\nine-plus\\Demo_MVC_SHOP\\Demo_MVC_SHOP\\appsettings.json",
+              "RelativeToolTip": "Demo_MVC_SHOP\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-12T01:43:23.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
